@@ -272,6 +272,7 @@ for epoch in range(0, n_epoch):
     print("Classifier: Loss adv =", sum_loss_dis_c1, ", Loss RL =", sum_loss_RL, ", Loss RP =", sum_loss_RP,)
 
     if epoch % 10 == 0:
+        #output image
         sample_num_h = 10
         sample_num = sample_num_h ** 2
 
