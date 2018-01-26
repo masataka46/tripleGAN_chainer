@@ -21,6 +21,10 @@ Then, you can get mnist_train_img.npy, mnist_train_label.npy, mnist_test_img.npy
 
 To train this model, do `python train_tripleGAN_chainer.py`
 
+## Refference
+I also made triple GAN code in tensorflow.  
+https://github.com/masataka46/tripleGAN  
+But, there are some bugs.
 
 ## License
 MIT 
