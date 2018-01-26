@@ -23,6 +23,10 @@ Then, you can get mnist_train_img.npy, mnist_train_label.npy, mnist_test_img.npy
 
 To train this model, do `python train_tripleGAN_chainer.py`
 
+## Sample image
+Sample image generated in generater after about 500 epochs.
+![resultimage_580](https://user-images.githubusercontent.com/15444879/35428209-2246aa7c-02b1-11e8-8053-1fbb888d6d7f.png)
+
 ## Refference
 I also made triple GAN code in tensorflow.  
 https://github.com/masataka46/tripleGAN  
