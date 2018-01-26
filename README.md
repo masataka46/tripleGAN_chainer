@@ -6,7 +6,7 @@ This software is a python implementation of Triple GAN using chainer.
 See the paper.
 https://arxiv.org/abs/1703.02291
 
-Notice that this code had not implement gaussian noise in discriminator, Because I don't know how to implement it.  
+Notice that this code had not implement gaussian noise in discriminator, Because I don't know how to implement it in chainer.  
 
 ## Requirement
 I only confirm the operation under this environment
@@ -26,7 +26,7 @@ To train this model, do `python train_tripleGAN_chainer.py`
 ## Refference
 I also made triple GAN code in tensorflow.  
 https://github.com/masataka46/tripleGAN  
-But, there are some bugs.
+But, there are some bugs.  
 
 ## License
 MIT 
