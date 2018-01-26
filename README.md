@@ -6,6 +6,8 @@ This software is a python implementation of Triple GAN using chainer.
 See the paper.
 https://arxiv.org/abs/1703.02291
 
+Notice that this code had not implement gaussian noise in discriminator, Because I don't know how to implement it.  
+
 ## Requirement
 I only confirm the operation under this environment
 1.  python 3.5.3
